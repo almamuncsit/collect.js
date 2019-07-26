@@ -9,3 +9,6 @@ coverage
 .DS_Store
 package-lock.json
 docs/.vuepress/dist/*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
